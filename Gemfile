@@ -45,4 +45,5 @@ group :test do
   gem 'selenium-webdriver'
 end
 
-gem 'rails-assets-d3', source: 'https://rails-assets.org'
+#gem 'rails-assets-d3', source: 'https://rails-assets.org'
+gem 'rails-assets-d3', '3.5.17', source: 'https://rails-assets.org'
