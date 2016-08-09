@@ -44,3 +44,5 @@ group :test do
   gem 'launchy'
   gem 'selenium-webdriver'
 end
+
+gem 'rails-assets-d3', source: 'https://rails-assets.org'
